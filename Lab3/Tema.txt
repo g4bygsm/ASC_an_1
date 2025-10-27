@@ -1,0 +1,39 @@
+﻿Exerciții pentru conversia unor valori dintr-o formă de reprezentare într-alta.
+
+1.      Convertiti numarul 47 din baza zece in binar fara semn.
+
+2.      Convertiti -27 din baza 10 in binar magnitudine cu semn.
+
+3.      Convertiti 213 din baza 16 in baza 10.
+
+4.      Convertiti 10110.101 din baza 2 in  baza 10.
+
+5.      34.625 din baza 10 in baza 4.
+
+6.      011011 din baza 2 in baza 10
+
+7.      -27 in binar exces 32
+
+8.      011011 din binar in baza 16
+
+9.      55.875 din baza 10 in binar fara semn
+
+10.   132.2 din baza 4 in baza 16
+
+11.   0.201 din baza 3 in baza 10
+
+
+Rezolvare:
+
+1. 47 -> 101111
+2. -27 -> 10011011
+3. 13 -> 531
+4. 410110.101 -> 22.625
+5. 34.625 -> 202
+6. 011011 -> 27
+7. -27(exces 32) -> 000101
+8. 011011 -> 3B
+9. 55.875 -> 110111.111
+10. 132.2 -> 1E.8
+11. 0.201 -> 0.2346
+
